@@ -1,6 +1,6 @@
-**Oppgave 1**
+# Oppgave 1
 
-**A**
+### A
 
 To run build the docker file run:
 
@@ -9,7 +9,7 @@ To run build the docker file run:
 This will create a dockerimage based on the Dockerfile
 
 
-**B**
+### B
 To run the created image type
 
 ```docker run --name kontecontainer -p 8080:9999  konte:latest```
